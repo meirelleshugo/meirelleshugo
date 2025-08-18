@@ -6,9 +6,9 @@
   ##
 <br />  
 <div align="center">
-  <a href="https://github.com/hugomeirellest2c">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomeirellest2c&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomeirellest2c&layout=compact&langs_count=7&theme=dark&PAT_1=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"/>
+  <a href="https://github.com/meirelleshugo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meirelleshugo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirelleshugo&layout=compact&langs_count=7&theme=dark&PAT_1=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"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -30,6 +30,6 @@
   <a href = "mailto:hugo.meirelles2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-meirelles-68a374207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-  ![snake gif](https://github.com/hugomeirellest2c/hugomeirellest2c/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/meirelleshugo/meirelleshugo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
