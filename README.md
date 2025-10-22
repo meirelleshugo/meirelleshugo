@@ -1,6 +1,6 @@
 ### Olá! Tudo beleza? Me chamo Hugo!
 
-- Trabalho como Desenvolvedor Junior
+- Sou Desenvolvedor Junior
 - Atualmente estudando Python! 
 
   ##
