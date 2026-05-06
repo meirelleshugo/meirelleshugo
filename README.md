@@ -1,7 +1,7 @@
 ### Olá! Tudo beleza? Me chamo Hugo!
 
-- Sou Desenvolvedor Junior
-- Atualmente estudando Python! 
+- Sou Desenvolvedor Backend
+- Atualmente estudando Node.js! 
 
   ##
 <br />  
