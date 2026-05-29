@@ -1,11 +1,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:c0c0c0,100:000000&text=Hugo%20Meirelles&fontColor=2c2c2c&fontSize=48&fontAlignY=35" />
+  <p>
+    <strong>Desenvolvedor Backend</strong><br/>
+    <!-- Atualmente trabalhando com typescript -->
+  </p>
 </div>
-
-### Olá! Tudo beleza? Me chamo Hugo!
-
-- Sou Desenvolvedor Backend
-- Atualmente trabalhando com typescript! 
 
 <!-- <br />  
 
@@ -39,6 +38,7 @@
   
 </div>
 
+<br/>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:c0c0c0,100:000000&section=footer" />
