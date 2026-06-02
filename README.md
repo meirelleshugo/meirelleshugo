@@ -1,10 +1,84 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:c0c0c0,100:000000&text=Hugo%20Meirelles&fontColor=2c2c2c&fontSize=48&fontAlignY=35" />
-  <p>
-    <strong>Desenvolvedor Backend</strong><br/>
+  <p style="color: gray;">
+    <strong>Desenvolvedor Backend<strong/><br/>
     <!-- Atualmente trabalhando com typescript -->
   </p>
+  <br/>
 </div>
+
+---
+
+## Linguagens de Programação
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=py)
+![C](https://skillicons.dev/icons?i=c)
+![Cs](https://skillicons.dev/icons?i=cs)
+
+## Backend & APIs
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Deno](https://skillicons.dev/icons?i=deno)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Django](https://skillicons.dev/icons?i=django)
+![Jest](https://skillicons.dev/icons?i=jest)
+
+## Banco de Dados
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+## Frontend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+
+## Cloud, DevOps & Infraestrutura
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+## Ferramentas de Desenvolvimento
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![NPM](https://skillicons.dev/icons?i=npm)
+![Yarn](https://skillicons.dev/icons?i=yarn)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Notion](https://skillicons.dev/icons?i=notion)
+
+## Outros Conhecimentos
+
+![Regex](https://skillicons.dev/icons?i=regex)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+## Comunicação & Networking
+
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)
+![Discord](https://skillicons.dev/icons?i=discord)
+![Gmail](https://skillicons.dev/icons?i=gmail)
+
+---
 
 <!-- <br />  
 
