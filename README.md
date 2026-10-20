@@ -1,13 +1,17 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:c0c0c0,100:0d1117&text=Hugo%20Meirelles&fontColor=0d1117&fontSize=48&fontAlignY=35" />
   <p style="color: gray;">
-    <strong>Desenvolvedor Backend<strong/><br/>
-    <!-- Atualmente trabalhando com typescript -->
+    <strong>Full Stack Developer<strong/>
   </p>
-  <br/>
+  <p style="color: gray;">
+    <strong>Currently working with:<strong/><br/>
+    Kubernetes · AKS · ASP.NET
+  </p>
 </div>
 
-## Linguagens de Programação
+<br/>
+
+## Programming Languages
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -26,7 +30,7 @@
 ![Django](https://skillicons.dev/icons?i=django)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
-## Banco de Dados
+## Databases
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -43,7 +47,7 @@
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
 
-## Cloud, DevOps & Infraestrutura
+## Cloud, DevOps & Infrastructure
 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Azure](https://skillicons.dev/icons?i=azure)
@@ -53,7 +57,7 @@
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
-## Ferramentas de Desenvolvimento
+## Development Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -65,12 +69,12 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Notion](https://skillicons.dev/icons?i=notion)
 
-## Outros Conhecimentos
+## Other Skills & Knowledge
 
 ![Regex](https://skillicons.dev/icons?i=regex)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
-## Comunicação & Networking
+## Communication & Networking
 
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
 ![Discord](https://skillicons.dev/icons?i=discord)
